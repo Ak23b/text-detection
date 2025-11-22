@@ -10,6 +10,8 @@
 
 2. cd "text-detection"
 
+3. Make sure to download the text detection model:  and place the ".pb" file into the folder. 
+
 3. run the script "python text_detect.py"
 
 4. The script will depict the results of the operations. 
